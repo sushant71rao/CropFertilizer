@@ -1,6 +1,7 @@
 pandas
 numpy
 xgboost
+gunicorn
 scikit-learn
 tensorflow
 fastapi
