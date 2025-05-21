@@ -1,5 +1,5 @@
 // src/components/SmartFarmAdvisor/steps/Step1CropLocation.tsx
-import React, { FC } from "react";
+import { FC } from "react";
 import { StepProps } from "../../../../types/interface";
 import {
   CROP_OPTIONS,

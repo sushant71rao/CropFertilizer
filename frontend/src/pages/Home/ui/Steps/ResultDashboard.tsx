@@ -1,5 +1,5 @@
 // src/components/SmartFarmAdvisor/ResultsDashboard.tsx
-import React, { FC } from "react";
+import { FC } from "react";
 import { ResultsDashboardProps } from "../../../../types/interface";
 const ResultsDashboard: FC<ResultsDashboardProps> = ({
   results,

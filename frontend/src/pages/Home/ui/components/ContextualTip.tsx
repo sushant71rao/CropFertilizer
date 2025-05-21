@@ -1,5 +1,5 @@
 // src/components/SmartFarmAdvisor/ui/ContextualTip.tsx
-import React, { FC } from "react";
+import { FC } from "react";
 import { ContextualTipProps } from "../../../../types/interface";
 
 const ContextualTip: FC<ContextualTipProps> = ({ children }) => (

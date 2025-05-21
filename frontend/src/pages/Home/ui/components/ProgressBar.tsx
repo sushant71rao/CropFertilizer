@@ -1,5 +1,5 @@
 // src/components/SmartFarmAdvisor/ui/ProgressBar.tsx
-import React, { FC } from "react";
+import { FC } from "react";
 import { ProgressBarProps } from "../../../../types/interface";
 
 const ProgressBar: FC<ProgressBarProps> = ({ currentStep, totalSteps }) => {

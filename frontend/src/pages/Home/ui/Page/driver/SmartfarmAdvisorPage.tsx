@@ -1,5 +1,5 @@
 // src/components/SmartFarmAdvisor/SmartFarmAdvisorPage.tsx
-import React, {
+import {
   useState,
   useCallback,
   useMemo,

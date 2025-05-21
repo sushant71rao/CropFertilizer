@@ -1,5 +1,5 @@
 // src/components/SmartFarmAdvisor/ui/EducationalSnippet.tsx
-import React, { FC, useState } from "react";
+import { FC, useState } from "react";
 import { EducationalSnippetProps } from "../../../../types/interface";
 
 const EducationalSnippet: FC<EducationalSnippetProps> = ({

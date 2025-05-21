@@ -1,5 +1,5 @@
 // src/components/SmartFarmAdvisor/steps/Step2SoilEnvironment.tsx
-import React, { FC } from "react";
+import { FC } from "react";
 import { StepProps } from "../../../../types/interface";
 import { SOIL_OPTIONS } from "../../../../constants/farmOptions";
 import SelectField from "../components/SelectField";

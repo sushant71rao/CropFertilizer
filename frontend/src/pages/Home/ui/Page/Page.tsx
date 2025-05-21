@@ -1,5 +1,5 @@
 // src/components/Page.tsx
-import React, { FC } from "react";
+import { FC } from "react";
 import SmartFarmAdvisorPage from "./driver/SmartfarmAdvisorPage";
 
 const Page: FC = () => {

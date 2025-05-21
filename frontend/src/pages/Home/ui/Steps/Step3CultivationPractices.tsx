@@ -1,5 +1,5 @@
 // src/components/SmartFarmAdvisor/steps/Step3CultivationPractices.tsx
-import React, { FC } from "react";
+import { FC } from "react";
 import { StepProps } from "../../../../types/interface";
 import InputField from "../components/InputField";
 import ContextualTip from "../components/ContextualTip";
